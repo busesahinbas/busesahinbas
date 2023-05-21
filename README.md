@@ -1,5 +1,10 @@
 ### Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>🌱 I’m currently learning Swift/iOS Development<br>
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badg
 <!--
 **busesahinbas/busesahinbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
